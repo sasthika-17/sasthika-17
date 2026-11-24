@@ -1,6 +1,6 @@
 # Sasthika A
 
-BCA Data Science graduate from VISTAS (2023-2026), CGPA **8.3**. Seeking entry-level Data Analyst, MIS and reporting roles. **Chennai preferred; open to relocation across India.**
+BCA Data Science graduate from VISTAS (2023-2026), CGPA **8.5**. Seeking entry-level Data Analyst, MIS and reporting roles. **Chennai preferred; open to relocation across India.**
 
 ## Tools
 Python, Pandas, NumPy, Matplotlib, Oracle SQL, Power BI, Power Query, DAX and Excel (PivotTables, VLOOKUP and HLOOKUP).
